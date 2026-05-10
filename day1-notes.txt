@@ -1,0 +1,6 @@
+What i learn in Docker Day 1
+- Docker basic
+- Containers
+- Docker installation
+- hellow-world container
+- Ubuntu container
